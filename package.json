@@ -1,0 +1,9 @@
+{
+  "name": "Studying_JavaScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.5.0"
+  }
+}
