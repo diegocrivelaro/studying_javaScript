@@ -55,7 +55,3 @@ console.log(primeiraFoto);
   console.log(primeiraFoto);
   ```
 </details>
-
----
-
-[Próximo exercício](../02-ignorando-elementos/README.md)
